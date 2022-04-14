@@ -1,0 +1,10 @@
+###
+
+PUT http://localhost:3002/songs/upvote
+content-type: application/json
+
+{
+    "user_name":"arnold",
+    "user_password":"007",
+    "song_title":"hamilton"
+}

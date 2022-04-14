@@ -1,0 +1,37 @@
+[
+    {
+        "title": "hamilton",
+        "year": 1995,
+        "genre": "rap",
+        "performer": "lin miranda",
+        "rating": 0
+    },
+    {
+        "title": "hamilton1",
+        "year": 1995,
+        "genre": "rap",
+        "performer": "lin miranda",
+        "rating": 10
+    },
+    {
+        "title": "bali",
+        "year": "2021",
+        "genre": "metal",
+        "performer": "sub",
+        "rating": 4
+    },
+    {
+        "title": "bali_1",
+        "year": "2021",
+        "genre": "metal",
+        "performer": "sub",
+        "rating": 0
+    },
+    {
+        "title": "bali_2",
+        "year": "2021",
+        "genre": "metal",
+        "performer": "sub",
+        "rating": 0
+    }
+]
